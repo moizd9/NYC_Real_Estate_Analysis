@@ -1,4 +1,4 @@
-# 🏙️ NYC Real Estate Market Intelligence
+# 🏙️ NYC Real Estate Market Analysis using R, PowerBI, SQL and DAX
 
 ## 📌 Project Overview
 
